@@ -1,0 +1,4 @@
+export const ADD_TASK = 'ADD_TODO';
+export const COMPLETE_TASK = 'COMPLETE_TASK';
+export const SET_TASK_MODAL = 'SET_TASK_MODAL';
+export const SET_COMPLETE_MODAL = 'SET_COMPLETE_MODAL';
